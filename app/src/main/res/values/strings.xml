@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SerialPortTurkish</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="connect">connect</string>
+    <string name="disconnect">disconnect</string>
+    <string name="read">read</string>
+
+    <string name="error1">General error. Start-up error, adjustment error...</string>
+    <string name="error2">Parity error or more than available characters. IT IS NOTPROCESSED</string>
+    <string name="error3">Frame number incorrect (numeric field on header).</string>
+    <string name="error4">Base price not valid.</string>
+    <string name="error5">Tare not valid.</string>
+    <string name="error6">Received text not valid.IT IS NOT PROCESSED.</string>
+    <string name="error7">Unstable weight.</string>
+    <string name="error8">The amount is not calculated.</string>
+    <string name="error9">0.0</string>
+    <string name="error10">Negative weight, "-------------" on display.</string>
+    <string name="error11">Overload, "------------" on display.</string>
+
+</resources>
